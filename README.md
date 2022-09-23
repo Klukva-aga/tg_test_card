@@ -1,2 +1,2 @@
-# tg_test_card
-Телеграм бот на питоне по созданию номеров банковских карт
+# QA-Bank-Card-T-Bot
+Try to create your new unique credit card number
