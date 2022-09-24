@@ -26,6 +26,7 @@ card_type_keybaord.row(
     types.KeyboardButton(text='JCB'),
 )
 
+# обработчик команды '/start'
 @bot.message_handler(commands=['start'])
 def start_command_handler(message: types.Message):
     # отправляем ответ на команду '/start'
